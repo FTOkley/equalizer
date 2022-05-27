@@ -282,6 +282,7 @@ img.socials {
   .block2 p {
     font-size: 1rem;
     width: 100%;
+    
   }
   .card p {
     font-size: 1rem;
@@ -291,6 +292,7 @@ img.socials {
   }
   .pattern1 {
     max-width: 200px;
+    z-index: -1;
   }
   .bottomlogo {
     grid-column-start: 1;
