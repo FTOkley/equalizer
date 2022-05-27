@@ -1,4 +1,4 @@
-<h1><PROJECT TITLE: <em>Equilizer Landing page</em></h1> 
+<h1><PROJECT TITLE: <em>Equalizer Landing page</em></h1> 
 
 
 The challenge is to build out this landing page<br> 
