@@ -1,2 +1,4 @@
-# equalizer-landing-page--
+PROJECT TITLE
+Equalizer landing page
+
  
