@@ -43,7 +43,7 @@ main {
 }
 
 .toplogo {
-  padding-left: 3%;
+  /* padding-left: 3%; */
   padding-bottom: 5%;
 }
 
@@ -76,7 +76,7 @@ h2 {
   display: flexbox;
   flex-wrap: wrap;
   width: 100%;
-  padding: 3%;
+  /* padding: 3%; */
   word-wrap: normal;
   text-align: left;
 }
@@ -109,6 +109,7 @@ h2 {
   padding: 2% 5%;
   background-color: black;
   position: relative;
+  border-radius: 5px;
 }
 
 .card {
