@@ -21,8 +21,8 @@ The users should be able to:<br>
 
 <h2> Link To Page </h2>
 
-  1. Live URL: <a href="https://ftokley.github.io/equalizer/" alt="_blank">Equelizer Landing Page</a><br>
-  2. Solution: <a href="https://github.com/FTOkley/equalizer/" alt="_blank">Solution Manual</a>
+  1. Live URL: <a href="https://ftokley.github.io/equalizer/"  target="_blank">Equelizer Landing Page</a><br>
+  2. Solution: <a href="https://github.com/FTOkley/equalizer/" target="_blank">Solution Manual</a>
   
  <h2> Built With </h2>
  1 HTML5 markup<br>
